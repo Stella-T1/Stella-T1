@@ -49,9 +49,9 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="65" height="65" />
-</div>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
+</div
 
 <!-- Motto -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=只要是个问题就一定能被解决，解决不了只有两种可能，一种是方法错误，另一种是能力不够。&author=Stella"  />
