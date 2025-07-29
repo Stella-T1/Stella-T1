@@ -48,42 +48,8 @@
 
 
 
-
-
-<!-- Little Logo -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <!-- 上四部分 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
-      <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
-    </a>
-    <img src="https://img.shields.io/badge/maintainer-theMaintainer-blue" alt="Maintainer">
-    <a href="http://shields.io/">
-      <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website shields.io">
-    </a>
-    <a href="https://GitHub.com/Naereen/ama">
-      <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !">
-    </a>
-  </div>
-  <!-- 下三部分 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://GitHub.com/Naereen/ama.fr">
-      <img src="https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg" alt="Demandez moi n'importe quoi !">
-    </a>
-    <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
-    </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
-      <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
-    </a>
-  </div>
-</div>
-
-
-
-
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=只要是个问题就一定能被解决，解决不了只有两种可能，一种是方法错误，另一种是能力不够。&author=Yaosir"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=只要是个问题就一定能被解决，解决不了只有两种可能，一种是方法错误，另一种是能力不够。&author=Stella"  />
 
 
 
