@@ -54,7 +54,7 @@
 </div
 
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=只要是个问题就一定能被解决，解决不了只有两种可能，一种是方法错误，另一种是能力不够。&author=Stella"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=我会回头看，但不会往回走。&author=Stella"  />
 
 
 
