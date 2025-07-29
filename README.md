@@ -33,7 +33,7 @@
 
 
 <!-- World Peaceful words -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build+Something+That+Matters!)
 
 
 
