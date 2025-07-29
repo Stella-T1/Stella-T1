@@ -27,7 +27,7 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Yaosir's GitHub ! 🍀</h1>
+<h1 style="color: #FFA500;">Welcome to Stella's GitHub ! 🍀</h1>
 
 
 
