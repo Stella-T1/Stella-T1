@@ -64,7 +64,7 @@
 
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,matlab,linux,github,pytorch,opencv,git,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
