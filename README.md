@@ -54,7 +54,7 @@
 </div
 
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=我会回头看，但不会往回走。&author=Stella"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=你不用很厉害才能开始，只有开始了才会很厉害。&author=Stella"  />
 
 
 
@@ -64,8 +64,7 @@
 
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,py,matlab,linux,github,pytorch,opencv,git,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,py,matlab,linux,github,pytorch,git,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
@@ -94,25 +93,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<!-- Award List -->
-![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
-
-
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 
 
-
-
 <!-- 3D Contribution -->
-![GitHub 3D Contribution](https://raw.githubusercontent.com/BreCaspian/BreCaspian/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/Stella-T1/Stella-T1/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!--
-**BreCaspian/BreCaspian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreCaspian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stella-T1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 profile-3d-contrib/profile-green-animate.svg
@@ -148,7 +138,7 @@ profile-3d-contrib/profile-gitblock.svg
 
 
 
-![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)  leetcode
+![](https://stats.justsong.cn/api/leetcode?username=Stella-T1&cn=true)  leetcode
 
 
 
