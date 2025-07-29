@@ -86,7 +86,7 @@
 
 
 <!-- 3D Contribution -->
-![GitHub 3D Contribution](https://raw.githubusercontent.com/Stella-T1/Stella-T1/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub 3D Contribution](https://raw.githubusercontent.com/Stella-T1/Stella-T1/main/profile-3d-contrib/profile-season-animate.svg)
 
 
 <!--
@@ -124,27 +124,6 @@ profile-3d-contrib/profile-night-rainbow.svg
 profile-3d-contrib/profile-gitblock.svg
 样式：Git块主题
 特点：以GitHub风格的方块形式展示贡献，静态展示。
-
-
-
-![](https://stats.justsong.cn/api/leetcode?username=Stella-T1&cn=true)  leetcode
-
-
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 小徽章
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=6" />
-  </a>
-</p>
-
-
-
-![](https://img.shields.io/badge/Python-FFD749?style=for-the-badge&logo=python&logoColor=white)
 
 
 
