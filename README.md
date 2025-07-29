@@ -46,13 +46,13 @@
 <!-- Dynamic Skills Logo -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://raw.githubusercontent.com/stella-t1/assets/main/icons/latex.svg" alt="LaTeX" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="65" height="65" />
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="65" height="65" />
 </div>
 
 <!-- Motto -->
