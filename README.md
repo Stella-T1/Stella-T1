@@ -58,22 +58,6 @@
 
 
 
-<!-- Alien Emoji -->
-
-
-
-
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,py,matlab,linux,github,pytorch,git,visualstudio,vscode,pycharm,anaconda&theme=dark&perline=7)](https://skillicons.dev)
-
-
-
-
-
-<!-- Stats Words -->
-![Metrics](github-metrics.svg)
-
-
 
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stella-T1&show_icons=true&theme=radical)
