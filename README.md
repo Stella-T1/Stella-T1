@@ -45,16 +45,7 @@ I'm passionate about building useful software, experimenting with LLM-powered ap
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Stella-T1&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stella-T1&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
