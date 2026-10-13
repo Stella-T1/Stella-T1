@@ -4,15 +4,13 @@ MSc student in **Scientific and Data Intensive Computing at [University College 
 
 I'm interested in **AI application development, Large Language Models (LLMs), and Machine Learning**. I enjoy learning new technologies and exploring how AI can be used to build practical applications.
 
-[Portfolio]() | [Resume]() | [LinkedIn]() | [Email](mailto:)
-
 ---
 
 ### Find me at
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Stella-T1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuxintian26)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](yuxintian.yx@gmail.com)
 
 ### A little about me...
 
